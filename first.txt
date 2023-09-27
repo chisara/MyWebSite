@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 This is first file
 this is line 2!
+=======
+This is first file. 
+this is line 2
+>>>>>>> 4488965 (changed by u2)
 this is line 3
